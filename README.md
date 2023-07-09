@@ -1,4 +1,4 @@
-# Título do projeto
+# HobbyPage
 
 Este é um projeto inicial que desempenha o papel de me apresentar e desenvolver: HTML, CSS e JAVASCRIPT, o projeto baseia-se em criar uma 
 página de web informativa, onde eu cumpri com alguns requisitos.
